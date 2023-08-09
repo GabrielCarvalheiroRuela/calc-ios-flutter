@@ -1,6 +1,6 @@
 # Calculadora IOS para android
 
-Português (Brasil):
+* ## Português (Brasil):
 
 ### DESENVOLVIMENTO:
 
@@ -8,11 +8,14 @@ Desenvolvimento da calculadora IOS, primeiramente começando separando e organiz
 Criei Buffers para gerenciar e operar os valores que o usuário digitar, além de ajustar o tamanho da fonte para ajustar dentro do display os números que estão sendo informado.
 Parte final ajustar alguns problemas na parte do código em que faz os cálculos e programar o botão de “=” para que mostre o resultado adquirido na tela.
 
-Criando Layout
+#### Criando Layout
+
+<img src="https://i.imgur.com/ylMGF8Q.png" width="200" />
 
 
+#### Desenvolvendo
 
-Desenvolvendo
+<img src="https://i.imgur.com/HHS6WU8.jpeg"  width="200" />
 
 
 
@@ -20,17 +23,19 @@ Desenvolvendo
 
 Foram feitos testes com contas matemáticas simples e também de múltiplas operações e todas funcionaram perfeitamente, único problema encontrado foi um limite de caractere, que ao ser atingido ele para de inserir no display por ja ter atingido o tamanho máximo na tela. exemplo:
 
-Máximo de números mostrado no display é de 32 caracteres.
+#### Máximo de números mostrado no display é de 32 caracteres.
 
-
+<img src="https://i.imgur.com/pAgQa41.png" width="200" />
 
 ### FINALIZAÇÃO:
 
 Colocar um icone de calculado no App
 
+<img src="https://i.imgur.com/wGyIWIH.png" />
 
+<br>
 
-Inglês:
+* ## Inglês:
 
 ### DEVELOPMENT:
 
@@ -38,13 +43,13 @@ Development of the IOS calculator, starting by separating and organizing what wi
 I created Buffers to manage and operate the values ​​that the user types, in addition to adjusting the font size to fit the numbers that are being informed within the display.
 Final part, adjust some problems in the part of the code where the calculations are made and program the “=” button so that it shows the result acquired on the screen.
 
-Creating Layout
+#### Creating Layout
 
+<img src="https://i.imgur.com/ylMGF8Q.png" width="200" />
 
+#### Developing
 
-Developing
-
-
+<img src="https://i.imgur.com/HHS6WU8.jpeg"  width="200" />
 
 ### TESTS:
 
@@ -52,9 +57,10 @@ Tests were made with simple mathematical accounts and also with multiple operati
 
 The maximum number shown on the display is 32 characters.
 
-
+<img src="https://i.imgur.com/pAgQa41.png" width="200" />
 
 ### FINALIZATION:
 
 Place a Calculation Icon in the App.
  
+<img src="https://i.imgur.com/wGyIWIH.png" />
